@@ -10,6 +10,8 @@ Tesseract OCR must be installed locally, and you'll need to set the location ins
 
 [Tesseract OCR](https://github.com/tesseract-ocr/tesseract?tab=readme-ov-file#installing-tesseract)
 
+[Download JSON-file used to match card names, and rename it to mtg.json](https://data.scryfall.io/default-cards/default-cards-20250612091019.json)
+
 The program also requires that you have a webcam connected to your computer. <br>
 **NOTE!**<br>
 If you have more than one (1) video device connected, such as a capture card, you MIGHT need to change the source in the code<br>
