@@ -1,0 +1,4 @@
+numpy==2.2.4
+opencv-python==4.11.0.86
+pynput==1.8.1
+pytesseract==0.3.13
