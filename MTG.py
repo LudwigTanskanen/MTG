@@ -188,7 +188,6 @@ def getName(img, width, height, json_file, state, non_permanents):
     else:
         closest_match = "Not Found"
     
-    print(f"[Debug] Current cards in play: {state.cardsInPlay}")
     return closest_match
 
 
